@@ -1,0 +1,40 @@
+R 400 400
+
+NO  ./textures/greystone.png                                                 
+SO ./textures/redbrick.png                                                 
+WE    ./textures/redbrick.PNG
+EA ./textures/blue eagle.png
+
+S ./textures/barrel.PNG         
+
+F 75,155,150
+C 135,200,250
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

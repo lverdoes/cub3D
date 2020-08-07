@@ -1,0 +1,23 @@
+R 400 400
+
+NO ./textures/purplestone.png
+SO ./textures/purplestone.png
+WE ./textures/bluestone.png
+EA ./textures/bluestone.png
+
+
+S ./textures/barrel.png
+S3 ./textures/pillar.png
+S4 ./textures/coin.png
+SD ./textures/eagle.xpm
+
+F ./textures/mossy.png
+C ./textures/purplestone.png
+
+111111111111111
+100200000000001
+100004000000001
+100000000020001
+100002040000001
+1000000000000N1
+111111111111111
